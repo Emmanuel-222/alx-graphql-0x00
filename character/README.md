@@ -1,0 +1,1 @@
+I started learning about GraphQL and I'm taking my time to learn the fundamental first.
